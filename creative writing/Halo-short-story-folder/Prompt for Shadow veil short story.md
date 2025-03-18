@@ -1,4 +1,4 @@
-LLM PROMPT
+Grok 3.0 beta PROMPT
 
 Me:Tell me a made up story about a spartan from the halo universe that died sacrificing their life, but read it to me like your a ai from the halo universe that works for oni and your briefing me, a colonel in the UNSC, on the operation the spartan died in. Format your text like it’s a a declassified transmission
 
