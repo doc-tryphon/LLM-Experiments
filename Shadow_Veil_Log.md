@@ -1,4 +1,5 @@
 This was co-authored by myself and Grok 3.0 beta.
+
 I wanted to test Grok's capacity for creative writing, so I used a prompt that leaned on the writing style prevalent in Eric Nylund's early Halo books.
 
 I prompted Grok to respond to me as the AI character, and I provided the dialogue for the Colonel character. 
