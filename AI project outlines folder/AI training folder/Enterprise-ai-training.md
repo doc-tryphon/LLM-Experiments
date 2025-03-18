@@ -1,4 +1,4 @@
-To get this outline, I provided grok 3 beta with my PC specs, and asked for guidance on how to train AI, broken down step by step
+To get this outline, I provided grok 3 beta with my PC specs, and asked for an outline on how to train Enterprise-Level AI
 
 # Enterprise-Level AI Training
 
