@@ -1,4 +1,4 @@
-# Priority Briefing: Disaster Relief Mission
+# Priority Briefing Template: Disaster Relief Mission
 
 ## Mission Overview
 
