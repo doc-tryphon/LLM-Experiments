@@ -3,4 +3,4 @@ This repository contains projects and experiments that I have ran with common ac
 
 Initially I was inspired to use LLM's to teach me how to program AI.
 
-Later I tested Grok's creative writing capacity, after it informed me that capacity was part of it's programming.
+Later I tested Grok's capacity for creative writing capacity. 
