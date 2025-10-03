@@ -1,7 +1,7 @@
 # Hello World Time Capsule
 
 **Date**: October 3, 2025  
-**Original**: ~2015  
+**Original**: ~Summer 2012 
 **Purpose**: Symbolic starting point and continuity marker
 
 ---
