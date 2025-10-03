@@ -6,6 +6,26 @@ This repository documents my learning journey and experiments with Large Languag
 
 ---
 
+## Project Timeline
+
+### The Journey
+
+**~2015**: [Hello World](hello-world/) - First program (symbolic starting point)  
+**2015-2024**: Dormant period - programming knowledge dormant  
+**September 2025**: Return to CS with quantum computing focus  
+**September 30, 2025**: Phase 1 Quantum Protocols complete (170 tests passing)  
+**October 3, 2025**: LLM-Experiments repository launched with Git infrastructure  
+**Current**: Working toward Step 6 (Shor's 9-Qubit Code)
+
+### Future Milestones
+
+**Phase 2** (Q4 2025): Advanced error correction (Steps 6-9)  
+**Phase 3** (Q1 2026): Quantum algorithms (Grover, Deutsch-Jozsa, Phase Estimation)  
+**Phase 4** (Q2 2026): Surface codes and VQE  
+**Long-term**: Complete 15-step quantum framework, expand to AI implementations
+
+---
+
 ## Repository Contents
 
 ### 1. Quantum Computing Framework
@@ -130,6 +150,52 @@ LLM-Experiments/
     ├── Halo-short-story-folder/
     └── Disaster-relief-tools-folder/
 ```
+
+---
+
+## Project Timeline
+
+### Symbolic Starting Point
+**~2015**: First Hello World  
+**Status**: Preserved in [`hello-world/`](hello-world/) as time capsule
+
+*"Every programmer's journey starts here. This folder honors that first moment."*
+
+### Quantum Computing Framework
+
+**Phase 1: Foundations** ✅ (Complete - September 30, 2025)
+- Step 1: Bell States & Entanglement (15 tests)
+- Step 2: Quantum Teleportation (20 tests)
+- Step 3: Superdense Coding (27 tests)
+- Step 4: Quantum Decoherence (28 tests)
+- Step 5: Quantum Error Correction (80 tests)
+- **Total**: 170/170 tests passing (100%)
+
+**Phase 2: Advanced Protocols** 🔄 (In Progress)
+- Step 6: Shor's 9-Qubit Code (next)
+- Step 7: Steane 7-Qubit Code
+- Step 8: Quantum Key Distribution (BB84)
+- Step 9: Entanglement Distillation
+
+**Phase 3: Quantum Algorithms** 📋 (Planned)
+- Step 10: Deutsch-Jozsa Algorithm
+- Step 11: Grover's Search
+- Step 12: Quantum Phase Estimation
+
+**Phase 4: Advanced Topics** 📋 (Planned)
+- Step 13: Surface Codes
+- Step 14: Variational Quantum Eigensolver
+- Step 15: Measurement-Based Quantum Computing
+
+### Infrastructure Milestones
+
+**October 3, 2025**: Git Infrastructure Deployment
+- Dual-remote setup (Local Gitea + GitHub)
+- SSH authentication configured
+- Repository synchronized across 3 environments
+- Documentation framework established
+
+*See [Project Night documentation](https://www.notion.so/281e8586e4a2811f9654c9a0c04440a9) for complete details*
 
 ---
 
